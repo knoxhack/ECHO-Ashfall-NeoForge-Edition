@@ -1,0 +1,14 @@
+{
+  "packId": "ashfall-neoforge-edition",
+  "displayName": "Ashfall NeoForge Edition",
+  "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
+  "launcherFeed": "github-releases",
+  "moduleArtifactFamily": "neoforge",
+  "moduleArtifactPattern": "<module>-<version>-neoforge.jar",
+  "moduleSourcePattern": "<module>-<version>-sources.jar",
+  "requiredModuleDescriptors": [
+    "META-INF/echo.mod.json",
+    "META-INF/neoforge.mods.toml"
+  ],
+  "artifacts": []
+}
