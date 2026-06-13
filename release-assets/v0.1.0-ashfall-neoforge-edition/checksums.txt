@@ -1,7 +1,7 @@
 8d53fe1b8b6916dc6891af5ea3c658b9a1d8747e1d58ebd87ab6079c4fc2d0fe  arcanaveil-0.2.0.jar
 a6ac9e6a9702dff01904d7cb8eb359496c3aec2581e6802eabd53121a9740ddb  ashfall-neoforge-edition-0.1.0.zip
-06288aa12b25a80c2fb96daea564a32be04c0d962a4b8e2f1f3cd08f983a6da1  ashfall-neoforge-edition-alpha-0.1.0.pack.json
-bbc52408e50f653f95af6b960ab2fb2f4cd8a65ab089caa4bb5df1810779655c  echo-release.json
+f1a425dc98b928e5b8685ac5b01d65ddf030a39a7524bb06b59a71cb30a0b900  ashfall-neoforge-edition-alpha-0.1.0.pack.json
+02373fb85bac3005b3d88471a03983017856cb17c8b00306b287b2b7db011d62  echo-release.json
 e54dd3c1743710a90429c77eb313b67af7ca76fe5be6066adb15f4d394b32e8e  echoaetherworks-1.0.0.jar
 4360c0f1798333064659a13157222457e6ef2decce09c7d9f682890403bc9ea0  echoagriculturereclamation-1.0.0.jar
 62349eeb7d8e6394ad309dae4846ce843e16faae7760f56a1aaaabdf44350a83  echoarcanacore-1.0.0.jar

@@ -6,7 +6,7 @@
   "channel": "alpha",
   "releasedAt": "2026-06-09T15:37:02.625Z",
   "manifestAsset": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "06288aa12b25a80c2fb96daea564a32be04c0d962a4b8e2f1f3cd08f983a6da1",
+  "manifestSha256": "f1a425dc98b928e5b8685ac5b01d65ddf030a39a7524bb06b59a71cb30a0b900",
   "artifactMode": "zip",
   "artifactAsset": "ashfall-neoforge-edition-0.1.0.zip",
   "artifactSha256": "a6ac9e6a9702dff01904d7cb8eb359496c3aec2581e6802eabd53121a9740ddb",
@@ -29,8 +29,8 @@
     {
       "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "06288aa12b25a80c2fb96daea564a32be04c0d962a4b8e2f1f3cd08f983a6da1",
-      "size": 96848
+      "sha256": "f1a425dc98b928e5b8685ac5b01d65ddf030a39a7524bb06b59a71cb30a0b900",
+      "size": 78738
     },
     {
       "name": "ashfall-neoforge-edition-0.1.0.zip",
