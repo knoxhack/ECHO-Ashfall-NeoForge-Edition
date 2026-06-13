@@ -28,6 +28,14 @@ Run commands from the repository root.
 
 Pack manifests, pack archives, NeoForge install metadata, and per-file pack assets belong here. Shared module jars stay in `ECHO-Modules`.
 
+## Release Assets
+
+The current public alpha prerelease payload is tracked under `release-assets/v0.1.0-ashfall-neoforge-edition/`.
+
+- `ashfall-neoforge-edition-0.1.0.zip` is stored with Git LFS.
+- `ashfall-neoforge-edition-alpha-0.1.0.pack.json`, `echo-release.json`, and `checksums.txt` are checked in beside it.
+- `release-audit.json` records the downloaded GitHub release asset hashes.
+
 ## Docs Index
 
 - [docs/install.md](docs/install.md)
