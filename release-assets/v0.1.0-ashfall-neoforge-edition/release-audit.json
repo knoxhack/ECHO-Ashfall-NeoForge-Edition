@@ -18,29 +18,29 @@
   "assets": [
     {
       "name": "ashfall-neoforge-edition-0.1.0.zip",
-      "size": 267385168,
-      "sha256": "ec0bf92387893c9377b393eab067cb2fdf993ada527007edb7919d5ab8c45725"
+      "size": 267329317,
+      "sha256": "1ff18293ac04c3e8e6c7da64cb70b9147dde029c9bb130474f6acfae1cd54c28"
     },
     {
       "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "size": 89158,
-      "sha256": "8635f2fd3df7e90b61426fd88313453eeef6077c75e78d23d3adfc13ad801f44"
+      "sha256": "04ab6056be8383c10d8d8bf9c2abbb15cb1ca1f70763c0c3c09fb313108e6740"
     },
     {
       "name": "checksums.txt",
-      "size": 414,
-      "sha256": "0d138247ec726e2bdc820181fe7de43536da25d21a7cdea87ba763ca5b6eb946"
+      "size": 298,
+      "sha256": "53ec69e94dade6fb380f7f2535759cfcdfd3df1acf5fe8509b411f787cb17385"
     },
     {
       "name": "echo-release.json",
       "size": 13345,
-      "sha256": "f76c1f9e0b99574ef478be07f706f58b67247fce8e0907d67942b172e30f3268"
+      "sha256": "6d85c26c3a971aa32615a433af2414276ffa85cfc393a8a1637d6e1103753b28"
     }
   ],
   "zip": {
     "file": "ashfall-neoforge-edition-0.1.0.zip",
     "entries": 49,
-    "sha256": "ec0bf92387893c9377b393eab067cb2fdf993ada527007edb7919d5ab8c45725"
+    "sha256": "1ff18293ac04c3e8e6c7da64cb70b9147dde029c9bb130474f6acfae1cd54c28"
   },
   "checksumCoverage": {
     "total": 49,
@@ -52,8 +52,8 @@
   "checksumEntries": [
     {
       "file": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "8635f2fd3df7e90b61426fd88313453eeef6077c75e78d23d3adfc13ad801f44",
-      "actualSha256": "8635f2fd3df7e90b61426fd88313453eeef6077c75e78d23d3adfc13ad801f44",
+      "expectedSha256": "04ab6056be8383c10d8d8bf9c2abbb15cb1ca1f70763c0c3c09fb313108e6740",
+      "actualSha256": "04ab6056be8383c10d8d8bf9c2abbb15cb1ca1f70763c0c3c09fb313108e6740",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "size": 89158,
@@ -61,8 +61,8 @@
     },
     {
       "file": "echo-release.json",
-      "expectedSha256": "f76c1f9e0b99574ef478be07f706f58b67247fce8e0907d67942b172e30f3268",
-      "actualSha256": "f76c1f9e0b99574ef478be07f706f58b67247fce8e0907d67942b172e30f3268",
+      "expectedSha256": "6d85c26c3a971aa32615a433af2414276ffa85cfc393a8a1637d6e1103753b28",
+      "actualSha256": "6d85c26c3a971aa32615a433af2414276ffa85cfc393a8a1637d6e1103753b28",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
       "size": 13345,
@@ -70,11 +70,11 @@
     },
     {
       "file": "ashfall-neoforge-edition-0.1.0.zip",
-      "expectedSha256": "ec0bf92387893c9377b393eab067cb2fdf993ada527007edb7919d5ab8c45725",
-      "actualSha256": "ec0bf92387893c9377b393eab067cb2fdf993ada527007edb7919d5ab8c45725",
+      "expectedSha256": "1ff18293ac04c3e8e6c7da64cb70b9147dde029c9bb130474f6acfae1cd54c28",
+      "actualSha256": "1ff18293ac04c3e8e6c7da64cb70b9147dde029c9bb130474f6acfae1cd54c28",
       "coveredBy": "release-asset-file",
       "matchedPath": "ashfall-neoforge-edition-0.1.0.zip",
-      "size": 267385168,
+      "size": 267329317,
       "ok": true
     },
     {

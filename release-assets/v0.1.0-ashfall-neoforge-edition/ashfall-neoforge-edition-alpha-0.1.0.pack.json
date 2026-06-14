@@ -7,8 +7,8 @@
   "minecraftVersion": "26.1.2",
   "artifactMode": "zip",
   "artifactName": "ashfall-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "c092f47205823aebb75d4a7a9a8d8123bf941aeba4ad529006365bca456c826b",
-  "artifactSize": 271049120,
+  "artifactSha256": "1ff18293ac04c3e8e6c7da64cb70b9147dde029c9bb130474f6acfae1cd54c28",
+  "artifactSize": 267329317,
   "loader": {
     "type": "neoforge",
     "version": "26.1.2.29-beta",
