@@ -679,7 +679,7 @@
       "id": "checksums",
       "file": "release-assets/v0.1.0-ashfall-neoforge-edition/checksums.txt",
       "size": 298,
-      "sha256": "53ec69e94dade6fb380f7f2535759cfcdfd3df1acf5fe8509b411f787cb17385",
+      "sha256": "fb336386934c8c4921a6256d3f4b42baa6d9e89b8501cfce12e442ee76518743",
       "sourceReleaseTag": "v0.1.0-ashfall-neoforge-edition",
       "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/tag/v0.1.0-ashfall-neoforge-edition",
       "lfs": false
@@ -687,8 +687,8 @@
     {
       "id": "echo-release",
       "file": "release-assets/v0.1.0-ashfall-neoforge-edition/echo-release.json",
-      "size": 13345,
-      "sha256": "6d85c26c3a971aa32615a433af2414276ffa85cfc393a8a1637d6e1103753b28",
+      "size": 13353,
+      "sha256": "776506e9a9864e0e9ead46983d105bf42832c54e7a7b39fc650e607fbe950718",
       "sourceReleaseTag": "v0.1.0-ashfall-neoforge-edition",
       "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/tag/v0.1.0-ashfall-neoforge-edition",
       "lfs": false
