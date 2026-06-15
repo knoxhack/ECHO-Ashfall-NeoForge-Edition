@@ -6,12 +6,12 @@
   "channel": "alpha",
   "releasedAt": "2026-06-14T01:26:48.614Z",
   "manifestAsset": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "0fb0f919e16525f55e61cb246075d8143659ba7fbd4d588ab9573a814ea477fc",
-  "manifestSize": 91672,
+  "manifestSha256": "c01aaa6c154a1564192198020cadc85f7c25a258b29258f0347a44e2acf53c9d",
+  "manifestSize": 105015,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "00a0ce15ff5809393301e85731173d1b03b6046a439754f7c1ec353f654f6abb",
-  "artifactSize": 267769246,
+  "artifactSha256": "5ed89c3358bc9e9accb78fce7ab28da217b4c4a55cfa7b562429c3765864dcfa",
+  "artifactSize": 267770440,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "0fb0f919e16525f55e61cb246075d8143659ba7fbd4d588ab9573a814ea477fc",
-      "size": 91672
+      "sha256": "c01aaa6c154a1564192198020cadc85f7c25a258b29258f0347a44e2acf53c9d",
+      "size": 105015
     },
     {
       "name": "ashfall-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "00a0ce15ff5809393301e85731173d1b03b6046a439754f7c1ec353f654f6abb",
-      "size": 267769246
+      "sha256": "5ed89c3358bc9e9accb78fce7ab28da217b4c4a55cfa7b562429c3765864dcfa",
+      "size": 267770440
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
