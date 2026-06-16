@@ -12,13 +12,13 @@
   "moduleCount": 46,
   "artifact": {
     "name": "ashfall-neoforge-edition-0.1.0.zip",
-    "sha256": "7a2340a6138cf99106e9b4d1e47d3ad682f28612bb1aa83ae9dadad8f9a3d1dc",
-    "size": 267960735
+    "sha256": "73dc6d1c6861e238f53b121140dc19099ba846e43c82109daa653ea534ae700e",
+    "size": 267948751
   },
   "manifest": {
     "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-    "sha256": "bb754dc873c70e6d66d44e1988e7c601c0f984e61fa90471c0ebb89f881b55eb",
-    "size": 106805
+    "sha256": "0d4eceec0734b320b5d6e6bccc768cad2352963ca9d705df04e2d5847cd41a2e",
+    "size": 106572
   },
-  "generatedAt": "2026-06-16T01:21:55.672Z"
+  "generatedAt": "2026-06-16T02:20:13.152Z"
 }
