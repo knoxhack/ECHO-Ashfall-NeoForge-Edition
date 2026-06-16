@@ -5,20 +5,20 @@
   "name": "Ashfall NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "moduleRelease": "release-index-current-module-artifacts-20260616",
-  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "moduleRelease": "modules-ashfall-runtime-parity-user-fix-20260616",
+  "moduleSourceRevision": "ECHO-Modules aff012aaa427 Ashfall runtime parity hotfix, 2026-06-16",
   "releaseTag": "v0.1.0-ashfall-neoforge-edition",
   "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
   "moduleCount": 46,
   "artifact": {
     "name": "ashfall-neoforge-edition-0.1.0.zip",
-    "sha256": "73dc6d1c6861e238f53b121140dc19099ba846e43c82109daa653ea534ae700e",
-    "size": 267948751
+    "sha256": "ec12fc20af0ea7e6d4b7fa16d4dcd09ebf59c07684840aadea879afe740755bc",
+    "size": 267976228
   },
   "manifest": {
     "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-    "sha256": "0d4eceec0734b320b5d6e6bccc768cad2352963ca9d705df04e2d5847cd41a2e",
-    "size": 106572
+    "sha256": "3c6f801d4bc9ac2ee6dd957a8048fe5a1d770f1da24eecca13401c8a1ce395c9",
+    "size": 107129
   },
-  "generatedAt": "2026-06-16T02:20:13.152Z"
+  "generatedAt": "2026-06-16T07:34:38.357Z"
 }

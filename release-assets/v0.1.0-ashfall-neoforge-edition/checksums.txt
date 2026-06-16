@@ -1,4 +1,4 @@
-73dc6d1c6861e238f53b121140dc19099ba846e43c82109daa653ea534ae700e  ashfall-neoforge-edition-0.1.0.zip
-0d4eceec0734b320b5d6e6bccc768cad2352963ca9d705df04e2d5847cd41a2e  ashfall-neoforge-edition-alpha-0.1.0.pack.json
-7bf87c8e3a9de775fd50779b00ee51f00b1ade85bb3cc66284d1179cb89d8fe8  echo-release.json
-04b241f6b54f5e01bf05181203d45f70b7fe46758d20178cd3ddcaf43f13ed8e  release-audit.json
+ec12fc20af0ea7e6d4b7fa16d4dcd09ebf59c07684840aadea879afe740755bc  ashfall-neoforge-edition-0.1.0.zip
+3c6f801d4bc9ac2ee6dd957a8048fe5a1d770f1da24eecca13401c8a1ce395c9  ashfall-neoforge-edition-alpha-0.1.0.pack.json
+5afbeffd35d548effd1dd11e9fee2d8067aa8500b0f2adaa26a424b1eb8067b9  echo-release.json
+8b0bd3582faefd31b2beb6cbd43fba3df37ab633d61df624e09f60ef231f37b2  release-audit.json
