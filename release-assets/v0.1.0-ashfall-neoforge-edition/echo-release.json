@@ -4,14 +4,14 @@
   "name": "Ashfall NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-16T00:35:26.496Z",
+  "releasedAt": "2026-06-16T01:21:55.673Z",
   "manifestAsset": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "a45d65142dd301876e642af818d93058915861ccef29a8efed21abe518a4cfd7",
-  "manifestSize": 106007,
+  "manifestSha256": "bb754dc873c70e6d66d44e1988e7c601c0f984e61fa90471c0ebb89f881b55eb",
+  "manifestSize": 106805,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "0db4d2063d5145cff6fc015bf70889ec7bd0d5ad1a071888dda2ed64f3259229",
-  "artifactSize": 271549900,
+  "artifactSha256": "7a2340a6138cf99106e9b4d1e47d3ad682f28612bb1aa83ae9dadad8f9a3d1dc",
+  "artifactSize": 267960735,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "a45d65142dd301876e642af818d93058915861ccef29a8efed21abe518a4cfd7",
-      "size": 106849
+      "sha256": "bb754dc873c70e6d66d44e1988e7c601c0f984e61fa90471c0ebb89f881b55eb",
+      "size": 106805
     },
     {
       "name": "ashfall-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "0db4d2063d5145cff6fc015bf70889ec7bd0d5ad1a071888dda2ed64f3259229",
-      "size": 271549900
+      "sha256": "7a2340a6138cf99106e9b4d1e47d3ad682f28612bb1aa83ae9dadad8f9a3d1dc",
+      "size": 267960735
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
-      "sha256": "58172c454a08644d794b0d4a29d1a7b5bab8651c6657006a8caa091fbf308188",
-      "size": 957538
+      "sha256": "06e762775bab4ae85178d8ce8af4ad0065fb95aa033841c8290d9b756b84fb21",
+      "size": 970532
     },
     {
       "name": "echoagriculturereclamation-1.0.0-neoforge.jar",
@@ -61,8 +61,8 @@
       "name": "echoashfallprotocol-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
-      "sha256": "a34d234ca044a01b00772ea464b1e0080339a4c66390173c1f9dab538b91b741",
-      "size": 59401447
+      "sha256": "5f781e41f0414fd9ffd2ee71f2c1b78f132b03baa7c9a15ee9c52ce73cc8acdf",
+      "size": 59411986
     },
     {
       "name": "echoblackboxprotocol-1.0.0-neoforge.jar",

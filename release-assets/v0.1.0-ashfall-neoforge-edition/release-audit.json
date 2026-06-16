@@ -1,76 +1,24 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-06-15T07:39:29.974Z",
-  "repository": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "ashfall-neoforge-edition",
+  "name": "Ashfall NeoForge Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "moduleRelease": "release-index-current-module-artifacts-20260616",
+  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
   "releaseTag": "v0.1.0-ashfall-neoforge-edition",
-  "status": "pass",
-  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/tag/v0.1.0-ashfall-neoforge-edition",
-  "assetDirectory": "C:\\Development\\Github\\ECHO-Ashfall-NeoForge-Edition\\release-assets\\v0.1.0-ashfall-neoforge-edition",
-  "uploadedReleaseAssets": [
-    "ashfall-neoforge-edition-0.1.0.zip",
-    "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-    "checksums.txt",
-    "echo-release.json"
-  ],
-  "sidecarAssets": [
-    "release-audit.json"
-  ],
-  "assets": [
-    {
-      "name": "ashfall-neoforge-edition-0.1.0.zip",
-      "size": 267556310,
-      "sha256": "fd7185fe6e6193375d34f061a3f29da8752909904438b3c013c9accab715bee9"
-    },
-    {
-      "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-      "size": 106007,
-      "sha256": "dce8cff34e0c5ca7289f306cb7f616c726af697fc32155bd5e43428c5ba97b9f"
-    },
-    {
-      "name": "checksums.txt",
-      "size": 298,
-      "sha256": "bfc10bccfd9e6d8205c49232bb3a2dec4f927e1aa05720c9d41b1c4dae3216b8"
-    },
-    {
-      "name": "echo-release.json",
-      "size": 13622,
-      "sha256": "0fddb3d0eae9bd89854c4fef1513ae09661d7bee2274114c3448491f22d7a44a"
-    }
-  ],
-  "zip": {
-    "file": "ashfall-neoforge-edition-0.1.0.zip",
-    "entries": null,
-    "sha256": "fd7185fe6e6193375d34f061a3f29da8752909904438b3c013c9accab715bee9"
+  "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
+  "moduleCount": 46,
+  "artifact": {
+    "name": "ashfall-neoforge-edition-0.1.0.zip",
+    "sha256": "7a2340a6138cf99106e9b4d1e47d3ad682f28612bb1aa83ae9dadad8f9a3d1dc",
+    "size": 267960735
   },
-  "checksumCoverage": {
-    "total": 3,
-    "ok": 3,
-    "missing": 0,
-    "mismatched": 0
+  "manifest": {
+    "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
+    "sha256": "bb754dc873c70e6d66d44e1988e7c601c0f984e61fa90471c0ebb89f881b55eb",
+    "size": 106805
   },
-  "checksumEntries": [
-    {
-      "file": "echo-release.json",
-      "expectedSha256": "0fddb3d0eae9bd89854c4fef1513ae09661d7bee2274114c3448491f22d7a44a",
-      "actualSha256": "0fddb3d0eae9bd89854c4fef1513ae09661d7bee2274114c3448491f22d7a44a",
-      "coveredBy": "release-asset-file",
-      "matchedPath": "echo-release.json"
-    },
-    {
-      "file": "ashfall-neoforge-edition-0.1.0.zip",
-      "expectedSha256": "fd7185fe6e6193375d34f061a3f29da8752909904438b3c013c9accab715bee9",
-      "actualSha256": "fd7185fe6e6193375d34f061a3f29da8752909904438b3c013c9accab715bee9",
-      "coveredBy": "release-asset-file",
-      "matchedPath": "ashfall-neoforge-edition-0.1.0.zip"
-    },
-    {
-      "file": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "dce8cff34e0c5ca7289f306cb7f616c726af697fc32155bd5e43428c5ba97b9f",
-      "actualSha256": "dce8cff34e0c5ca7289f306cb7f616c726af697fc32155bd5e43428c5ba97b9f",
-      "coveredBy": "release-asset-file",
-      "matchedPath": "ashfall-neoforge-edition-alpha-0.1.0.pack.json"
-    }
-  ],
-  "missingChecksumEntries": [],
-  "mismatchedChecksumEntries": []
+  "generatedAt": "2026-06-16T01:21:55.672Z"
 }
