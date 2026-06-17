@@ -1305,9 +1305,9 @@
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "851fcebce74d964c3502f65d42518f60b162c9985ecaaa9ee4c6560fe5765563",
-      "size": 970544,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoadaptercore-1.0.0-neoforge.jar"
+      "sha256": "8ca502adb81939ed709f547c9c6e16f2524569b6513ee246ec86ca78e20f94a8",
+      "size": 970940,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoadaptercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoagriculturereclamation",
@@ -1347,9 +1347,9 @@
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "375748cdfbb97b0c945414eb0089bb3c4767288cc7ee5c7b8983d9e4e758c70e",
-      "size": 59402670,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoashfallprotocol-1.0.0-neoforge.jar"
+      "sha256": "c18d65f1f3c42b608b653800e4d53f1c3e5dc4ab0616a22eb62dc29610a5f86d",
+      "size": 59413044,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoashfallprotocol-1.0.0-neoforge.jar"
     },
     {
       "id": "echoblackboxprotocol",
@@ -1959,9 +1959,9 @@
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "851fcebce74d964c3502f65d42518f60b162c9985ecaaa9ee4c6560fe5765563",
-      "size": 970544,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoadaptercore-1.0.0-neoforge.jar"
+      "sha256": "8ca502adb81939ed709f547c9c6e16f2524569b6513ee246ec86ca78e20f94a8",
+      "size": 970940,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoadaptercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoagriculturereclamation",
@@ -2001,9 +2001,9 @@
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "375748cdfbb97b0c945414eb0089bb3c4767288cc7ee5c7b8983d9e4e758c70e",
-      "size": 59402670,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-canonical-full-20260616/echoashfallprotocol-1.0.0-neoforge.jar"
+      "sha256": "c18d65f1f3c42b608b653800e4d53f1c3e5dc4ab0616a22eb62dc29610a5f86d",
+      "size": 59413044,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-renderer-hotfix-20260617/echoashfallprotocol-1.0.0-neoforge.jar"
     },
     {
       "id": "echoblackboxprotocol",
@@ -2597,12 +2597,12 @@
   "runtimeTarget": "neoforge",
   "id": "ashfall-neoforge-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/download/v0.1.0-ashfall-neoforge-edition/ashfall-neoforge-edition-0.1.0.zip",
-  "updatedAt": "2026-06-16T15:35:49.847Z",
+  "updatedAt": "2026-06-17T09:29:31.984Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-  "moduleRelease": "modules-canonical-full-20260616",
-  "moduleSourceRevision": "ECHO-Modules modules-canonical-full-20260616 (9f25b667), 2026-06-16",
-  "artifactSha256": "24225c4b75b8cce6a6acf93ddafd479c52a8daa40be0e7ce2c037930c39a520b",
-  "artifactSize": 267956097
+  "moduleRelease": "modules-ashfall-renderer-hotfix-20260617",
+  "moduleSourceRevision": "ECHO-Modules@ea649f2ec27d4fd91f5aff08fa08d0231f9f0105",
+  "artifactSha256": "c23760a9c666234feef47d5b786da6750194d00489863e920728b13923728c2f",
+  "artifactSize": 267966443
 }

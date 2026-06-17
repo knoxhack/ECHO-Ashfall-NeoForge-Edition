@@ -4,15 +4,15 @@
   "name": "Ashfall NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-16T15:36:24.446Z",
+  "releasedAt": "2026-06-17T09:29:41.700Z",
   "manifestAsset": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "74fb4403169604008c29f5eac42473b3b5e52567fe75c2c9c8adcf8f59c18b8b",
-  "manifestSize": 105548,
+  "manifestSha256": "919ab91ad4fe3c9e63700c0c9cba7c924ce54a6867dd480837fcf8a1ad88f24f",
+  "manifestSize": 105579,
   "artifactMode": "zip",
   "artifactAsset": "ashfall-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "24225c4b75b8cce6a6acf93ddafd479c52a8daa40be0e7ce2c037930c39a520b",
-  "artifactSize": 267956097,
-  "moduleRelease": "modules-canonical-full-20260616",
+  "artifactSha256": "c23760a9c666234feef47d5b786da6750194d00489863e920728b13923728c2f",
+  "artifactSize": 267966443,
+  "moduleRelease": "modules-ashfall-renderer-hotfix-20260617",
   "packs": [
     {
       "pack": "ashfall-neoforge-edition",
@@ -27,21 +27,21 @@
     {
       "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "74fb4403169604008c29f5eac42473b3b5e52567fe75c2c9c8adcf8f59c18b8b",
-      "size": 105548
+      "sha256": "919ab91ad4fe3c9e63700c0c9cba7c924ce54a6867dd480837fcf8a1ad88f24f",
+      "size": 105579
     },
     {
       "name": "ashfall-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "24225c4b75b8cce6a6acf93ddafd479c52a8daa40be0e7ce2c037930c39a520b",
-      "size": 267956097
+      "sha256": "c23760a9c666234feef47d5b786da6750194d00489863e920728b13923728c2f",
+      "size": 267966443
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
-      "sha256": "851fcebce74d964c3502f65d42518f60b162c9985ecaaa9ee4c6560fe5765563",
-      "size": 970544
+      "sha256": "8ca502adb81939ed709f547c9c6e16f2524569b6513ee246ec86ca78e20f94a8",
+      "size": 970940
     },
     {
       "name": "echoagriculturereclamation-1.0.0-neoforge.jar",
@@ -61,8 +61,8 @@
       "name": "echoashfallprotocol-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
-      "sha256": "375748cdfbb97b0c945414eb0089bb3c4767288cc7ee5c7b8983d9e4e758c70e",
-      "size": 59402670
+      "sha256": "c18d65f1f3c42b608b653800e4d53f1c3e5dc4ab0616a22eb62dc29610a5f86d",
+      "size": 59413044
     },
     {
       "name": "echoblackboxprotocol-1.0.0-neoforge.jar",
@@ -363,5 +363,5 @@
     "Ashfall NeoForge Edition refreshed against the current Release Index module catalog.",
     "Pack module files, sidecar metadata, and archive checksums are pinned to current GitHub module artifacts."
   ],
-  "moduleSourceRevision": "ECHO-Modules modules-canonical-full-20260616 (9f25b667), 2026-06-16"
+  "moduleSourceRevision": "ECHO-Modules@ea649f2ec27d4fd91f5aff08fa08d0231f9f0105"
 }
