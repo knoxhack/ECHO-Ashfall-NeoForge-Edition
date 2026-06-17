@@ -5,20 +5,20 @@
   "name": "Ashfall NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "moduleRelease": "modules-ashfall-renderer-hotfix-20260617",
-  "moduleSourceRevision": "ECHO-Modules@ea649f2ec27d4fd91f5aff08fa08d0231f9f0105",
+  "moduleRelease": "modules-mixed-canonical-and-ashfall-hotfixes-20260617",
+  "moduleSourceRevision": "ECHO-Release-Index modules/*.json with ECHO-Modules@d499d0a554e741d58e74183a23a7e360f22721db",
   "releaseTag": "v0.1.0-ashfall-neoforge-edition",
   "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
   "moduleCount": 46,
   "artifact": {
     "name": "ashfall-neoforge-edition-0.1.0.zip",
-    "sha256": "c23760a9c666234feef47d5b786da6750194d00489863e920728b13923728c2f",
-    "size": 267966443
+    "sha256": "2eea34ec9e5c7972c41889a48193efdc1445c207c62f71c73c9101c6546ea901",
+    "size": 267970199
   },
   "manifest": {
     "name": "ashfall-neoforge-edition-alpha-0.1.0.pack.json",
-    "sha256": "919ab91ad4fe3c9e63700c0c9cba7c924ce54a6867dd480837fcf8a1ad88f24f",
-    "size": 105579
+    "sha256": "6624becb2b49c2a8be6ccf7c144cac949a53ad77d29c440b6f32e5d27be2f3b2",
+    "size": 105657
   },
-  "generatedAt": "2026-06-17T09:29:41.699Z"
+  "generatedAt": "2026-06-17T21:35:56.097Z"
 }
