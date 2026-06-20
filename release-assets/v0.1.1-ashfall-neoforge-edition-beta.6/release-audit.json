@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "ashfall-neoforge-edition",
+  "name": "Ashfall NeoForge Edition",
+  "version": "0.1.1",
+  "channel": "beta",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleSourceRevision": "ECHO-Modules afd206900713 release modules-beta-full-20260620, 2026-06-20",
+  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.6",
+  "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
+  "moduleCount": 46,
+  "artifact": {
+    "name": "ashfall-neoforge-edition-0.1.1.zip",
+    "sha256": "39a1f297e42c577e21b49c07b1feac74c0a7e577fd8d29f005979bd023f3d891",
+    "size": 269579209
+  },
+  "manifest": {
+    "name": "ashfall-neoforge-edition-beta-0.1.1.pack.json",
+    "sha256": "215ea1c68331e74c38bcba2324150f44eff365d3297e03b84fc7278806de6b1b",
+    "size": 58801
+  },
+  "generatedAt": "2026-06-20T23:07:21.926Z"
+}
