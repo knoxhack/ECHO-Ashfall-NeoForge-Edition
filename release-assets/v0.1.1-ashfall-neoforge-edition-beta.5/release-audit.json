@@ -7,7 +7,7 @@
   "channel": "beta",
   "moduleRelease": "modules-beta-full-20260620",
   "moduleSourceRevision": "ECHO-Modules afd206900713 local Content Graph + AdapterCore recovery artifacts, 2026-06-20",
-  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.4",
+  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.5",
   "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
   "moduleCount": 46,
   "artifact": {
@@ -20,5 +20,5 @@
     "sha256": "e6c66b811de56bfc5596d27d8d32916e60bc00800b0214104822b343214b859d",
     "size": 58815
   },
-  "generatedAt": "2026-06-20T21:14:50.168Z"
+  "generatedAt": "2026-06-20T21:40:08.430Z"
 }
