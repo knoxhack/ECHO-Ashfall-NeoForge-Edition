@@ -1,6 +1,6 @@
 # Ashfall NeoForge Edition Module Requirements
 
-The pack manifest declares module requirements instead of hard-coding every module file by hand.
+The pack manifest declares module requirements instead of hard-coding every module file by hand. The current `release-assets/v0.1.0-ashfall-neoforge-edition/ashfall-neoforge-edition-alpha-0.1.0.pack.json` declares 46 requirements for the `neoforge` module artifact family.
 
 ```json
 {
@@ -17,9 +17,9 @@ The pack manifest declares module requirements instead of hard-coding every modu
 
 The launcher resolves the default artifact name as `<module>-<version>-neoforge.jar`. Individual requirements can override `assetName`, `path`, `sha256`, `size`, `side`, or `artifactFamily`.
 
-## Current Published Asset Blocker
+## Current Release Status
 
-The checked-in `release-assets/v0.1.0-ashfall-neoforge-edition/` files mirror the currently published GitHub prerelease assets. That published `.pack.json` snapshot does not include `moduleRequirements`, so Release Index and ECHO Launcher keep this edition warning-gated. Rebuild the `.pack.json` from `release-manifest.template.json`, regenerate checksums, upload the corrected assets, then update Release Index hashes.
+The checked-in `release-assets/v0.1.0-ashfall-neoforge-edition/` files mirror the current GitHub prerelease assets and include `moduleRequirements`. The NeoForge client event wiring hotfixes for Terminal, HoloMap, Lens, Index keybind/overlay registration, ScreenCore reload registration, HUDCore GUI layer/rendering, and Ashfall content entrypoints are published in `knoxhack/ECHO-Modules` and indexed by the public alpha channel. The current Ashfall NeoForge lane smoke has real gameplay proof for client start, world load, HUD, Index, Terminal, HoloMap, Lens, creative inventory search/selection/use, and save/reload. Computer Use visual capture remains blocked by `SetIsBorderRequired failed: No such interface supported (0x80004002)`, so the accepted proof set uses launcher-imported screenshots and logs until the capture backend is fixed.
 
 <!-- runtime-parity-baseline:start -->
 ## Runtime Parity Baseline
@@ -38,7 +38,7 @@ Required modules after the parity sync:
 - `echocore` (1.0.0)
 - `echoholomap` (1.0.0)
 - `echohudcore` (1.0.0)
-- `echoindex` (1.0.0)
+- `echoindex` (1.0.1)
 - `echolens` (1.0.0)
 - `echonetcore` (1.0.0)
 - `echoplatformcore` (1.0.0)
