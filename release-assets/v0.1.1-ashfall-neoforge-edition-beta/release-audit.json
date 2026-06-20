@@ -6,19 +6,19 @@
   "version": "0.1.1",
   "channel": "beta",
   "moduleRelease": "modules-beta-full-20260620",
-  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "moduleSourceRevision": "ECHO-Modules afd206900713 local Content Graph + AdapterCore recovery artifacts, 2026-06-20",
   "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta",
   "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
   "moduleCount": 46,
   "artifact": {
     "name": "ashfall-neoforge-edition-0.1.1.zip",
-    "sha256": "68784193bb7efcfa595820dda5aefed4101aa7992256528104a3d8b4ab29fe76",
-    "size": 269583973
+    "sha256": "c976d159c9c27e55e35cb00455d1273887d31d2cdd0027f60d6ea5d3eefa60ae",
+    "size": 269877730
   },
   "manifest": {
     "name": "ashfall-neoforge-edition-beta-0.1.1.pack.json",
-    "sha256": "9817cb4d7fd7ead940f3a7f97666a5064967af1a5c6b9bf33bd89aeab11326ff",
-    "size": 105315
+    "sha256": "895c3f2386283d0a6acf0bd9dd14aebb1bebac17ffbf46aa239ba2ab969405f4",
+    "size": 58813
   },
-  "generatedAt": "2026-06-20T04:41:22.938Z"
+  "generatedAt": "2026-06-20T18:28:38.134Z"
 }
