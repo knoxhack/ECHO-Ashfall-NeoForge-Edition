@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-hotfix-from-current-module-catalog",
+  "pack": "ashfall-neoforge-edition",
+  "name": "Ashfall NeoForge Edition",
+  "version": "0.1.1",
+  "channel": "beta",
+  "moduleRelease": "modules-ashfall-neoforge-runtime-hotfix-20260621",
+  "moduleSourceRevision": "ECHO-Modules 3e41d8e0 release modules-ashfall-neoforge-runtime-hotfix-20260621, 2026-06-21",
+  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.7",
+  "sourceRepo": "knoxhack/ECHO-Ashfall-NeoForge-Edition",
+  "moduleCount": 46,
+  "artifact": {
+    "name": "ashfall-neoforge-edition-0.1.1.zip",
+    "sha256": "9b11bfa2838ba995670f5cc7f723b290e13f163dce750bb7a65bdc08d6c18a0a",
+    "size": 269548897
+  },
+  "manifest": {
+    "name": "ashfall-neoforge-edition-beta-0.1.1.pack.json",
+    "sha256": "814c83908f315cf017a673840b3d2fdccf91a727e5a942987f88080de5b5e2de",
+    "size": 59055
+  },
+  "generatedAt": "2026-06-21T05:54:36.339Z"
+}

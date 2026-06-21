@@ -133,9 +133,9 @@
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "909f8af44c453100f819ed8c585f64f5ea3897d0e74c02f43c8d6e911235f83b",
-      "size": 61031011,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoashfallprotocol-1.0.0-neoforge.jar"
+      "sha256": "afdedcb966184e83582372cfce8482115f2f184ef17b221818c3fc39556a22e0",
+      "size": 61194900,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-neoforge-runtime-hotfix-20260621/echoashfallprotocol-1.0.0-neoforge.jar"
     },
     {
       "id": "echoblackboxprotocol",
@@ -729,7 +729,8 @@
   "changelog": [
     "Ashfall packaged from the official ECHO seed instance.",
     "Strict SHA-256 manifest and verified zip artifact release.",
-    "Minecraft Launcher handoff path prepared for beta testers."
+    "Minecraft Launcher handoff path prepared for beta testers.",
+    "Beta.7 hotfix: Ashfall Protocol NeoForge jar removes native-loader SLF4J/logging shims and delays mission item stacks until components bind."
   ],
   "worldgenWarning": true,
   "ramMb": 6912,
@@ -787,9 +788,9 @@
       "path": "mods/echoashfallprotocol-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "909f8af44c453100f819ed8c585f64f5ea3897d0e74c02f43c8d6e911235f83b",
-      "size": 61031011,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-beta-full-20260620/echoashfallprotocol-1.0.0-neoforge.jar"
+      "sha256": "afdedcb966184e83582372cfce8482115f2f184ef17b221818c3fc39556a22e0",
+      "size": 61194900,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-ashfall-neoforge-runtime-hotfix-20260621/echoashfallprotocol-1.0.0-neoforge.jar"
     },
     {
       "id": "echoblackboxprotocol",
@@ -1382,18 +1383,18 @@
   ],
   "runtimeTarget": "neoforge",
   "id": "ashfall-neoforge-edition",
-  "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/download/v0.1.1-ashfall-neoforge-edition-beta.6/ashfall-neoforge-edition-0.1.1.zip",
-  "updatedAt": "2026-06-20T23:06:32.183Z",
+  "artifactUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/download/v0.1.1-ashfall-neoforge-edition-beta.7/ashfall-neoforge-edition-0.1.1.zip",
+  "updatedAt": "2026-06-21T05:54:36.339Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "warning",
   "manifestAsset": "ashfall-neoforge-edition-beta-0.1.1.pack.json",
-  "moduleRelease": "modules-beta-full-20260620",
-  "moduleSourceRevision": "ECHO-Modules afd206900713 release modules-beta-full-20260620, 2026-06-20",
-  "artifactSha256": "39a1f297e42c577e21b49c07b1feac74c0a7e577fd8d29f005979bd023f3d891",
-  "artifactSize": 269579209,
-  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.6",
-  "moduleReleaseId": "modules-beta-full-20260620",
-  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/tag/v0.1.1-ashfall-neoforge-edition-beta.6",
+  "moduleRelease": "modules-ashfall-neoforge-runtime-hotfix-20260621",
+  "moduleSourceRevision": "ECHO-Modules 3e41d8e0 release modules-ashfall-neoforge-runtime-hotfix-20260621, 2026-06-21",
+  "artifactSha256": "9b11bfa2838ba995670f5cc7f723b290e13f163dce750bb7a65bdc08d6c18a0a",
+  "artifactSize": 269548897,
+  "releaseTag": "v0.1.1-ashfall-neoforge-edition-beta.7",
+  "moduleReleaseId": "modules-ashfall-neoforge-runtime-hotfix-20260621",
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Ashfall-NeoForge-Edition/releases/tag/v0.1.1-ashfall-neoforge-edition-beta.7",
   "moduleArtifactPattern": "<module>-<version>-neoforge.jar",
   "moduleSourcePattern": "<module>-<version>-sources.jar"
 }
