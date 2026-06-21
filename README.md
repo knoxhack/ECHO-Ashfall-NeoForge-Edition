@@ -30,11 +30,11 @@ Pack manifests, pack archives, NeoForge install metadata, and per-file pack asse
 
 ## Release Assets
 
-- GitHub prerelease tag: `v0.1.1-ashfall-neoforge-edition-beta`
-- Checked-in payloads: `release-assets/v0.1.1-ashfall-neoforge-edition-beta/`
+- GitHub prerelease tag: `v0.1.1-ashfall-neoforge-edition-beta.8`
+- Checked-in payloads: `release-assets/v0.1.1-ashfall-neoforge-edition-beta.8/`
 - Uploaded assets: `ashfall-neoforge-edition-0.1.1.zip`, `ashfall-neoforge-edition-beta-0.1.1.pack.json`, `checksums.txt`, `echo-release.json`, `release-audit.json`
 
-These files mirror the live GitHub prerelease assets and the Release Index beta catalog.
+These files mirror the live GitHub prerelease assets and the Release Index beta catalog. Beta.8 pins the Terminal freeze fix from `modules-ashfall-terminal-hotfix-20260621`.
 ## Docs Index
 
 - [docs/install.md](docs/install.md)
